@@ -1,0 +1,10 @@
+opencv-python==4.8.0.74
+torch
+torchvision
+ultralytics
+# lightning
+# lightning-bolts
+pycocotools
+pytorch_lightning
+opencv-python
+matplotlib
