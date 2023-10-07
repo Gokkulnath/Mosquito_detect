@@ -1,3 +1,4 @@
+gdown
 opencv-python==4.8.0.74
 torch
 torchvision
@@ -5,6 +6,7 @@ ultralytics
 # lightning
 # lightning-bolts
 pycocotools
-pytorch_lightning
+# pytorch_lightning
 opencv-python
 matplotlib
+onnx==1.14.1
