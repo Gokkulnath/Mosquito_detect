@@ -1,0 +1,11 @@
+names:
+    0: culex
+    1: albopictus
+    2: culiseta
+    3: japonicus/koreicus
+    4: anopheles
+    5: aegypti
+path: /home/gokkulnath/Mosquito_detect/Mosquito_Dataset
+test: images/test_images
+train: images/train_images
+val: images/val_images
