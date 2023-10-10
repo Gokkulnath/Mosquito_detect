@@ -2,7 +2,7 @@
 Detect Mosquito Using Object Detection models
 
 - [x] Dataset Setup 
-- [] Trainning pipeline: Yet to added
+- [ ] Trainning pipeline: Yet to added
 - [x] Model Post processing: Conversion --> ONNX to Tflite
 - [x] Android App
 - [x] Android APK
