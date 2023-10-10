@@ -1,12 +1,27 @@
+nvidia-pyindex 
 gdown
-opencv-python==4.8.0.74
-torch
-torchvision
-ultralytics
+scikit-learn
+opencv-python-headless==4.8.0.74
 # lightning
 # lightning-bolts
 pycocotools
 # pytorch_lightning
-opencv-python
-matplotlib
 onnx==1.14.1
+onnx-graphsurgeon 
+onnxruntime==1.16.0 
+onnxsim==0.4.33
+simple_onnx_processing_tools 
+onnx2tf 
+h5py==3.7.0
+psutil==5.9.5 
+ml_dtypes==0.2.0
+tensorflow==2.14.0 
+ultralytics==8.0.194
+protobuf==3.20.3 
+openvino2tensorflow==1.34.0
+openvino==2023.1.0
+openvino-dev==2023.1.0
+beautifulsoup4==4.9.3
+bs4==0.0.1
+requests-file==1.5.1
+validators==0.18.2
